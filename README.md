@@ -12,7 +12,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alts="gilf" height="150" src="https://discord.com/channels/957548795204366336/957548829014646855/957553129228992512">
+  <img align="right" alts="gilf" height="150" src="https://i.picasion.com/pic92/dcb1f65d935ff91255e31ba465dda449.gif">
 </div>
   
   ##
