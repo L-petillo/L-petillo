@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Leonardo Petillo👋
 
-- 🎒 Atualmente sou estudante de programação
-- 🌱 Atualmente estou estudando javascript
-- 😄 Pronouns: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/L-petillo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-petillo&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
