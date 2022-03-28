@@ -8,7 +8,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alts="gilf" height="150" src="https://pt.bloggif.com/output/f/3/f3a00a4aef46180e383847118ed276fc.gif?1648439649">
+  <img align="right" alts="gilf" height="150" src="https://i.pinimg.com/originals/ce/2f/f4/ce2ff427210d240c6ed30094cc45aa4e.gif">
 </div>
   
   ##
