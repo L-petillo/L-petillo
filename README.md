@@ -9,7 +9,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alts="gilf" height="120" src="https://i.pinimg.com/originals/ce/2f/f4/ce2ff427210d240c6ed30094cc45aa4e.gif">
-    <img align="right" alts="gilf" height="120" src="https://i.pinimg.com/originals/49/34/d0/4934d05e0717df293acb026ea684de4d.gif">
+  
 </div>
   
   ##
